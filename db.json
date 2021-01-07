@@ -1,0 +1,20 @@
+{
+"user":[{
+    "id": 1,
+    "name": "nikhil sri",
+    "email": "nik@g.com",
+    "mobile": 9958186357
+  },
+  {
+    "id": 2,
+    "name": "ravi",
+    "email": "nikhil@g.com",
+    "mobile": 9958186357
+  },
+  {
+    "id": 3,
+    "name": "saursbh",
+    "email": "nik@g.com",
+    "mobile": 9958186357
+  }]
+}
